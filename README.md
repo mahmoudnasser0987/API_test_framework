@@ -5,7 +5,8 @@ A scalable, maintainable API test automation framework using **pytest** and a **
 ## Demo
 
 <!-- Replace with your recorded GIF -->
-![Test Run Demo](demo.gif)
+![Test Run Demo](api_testcases.gif)
+
 
 ## Test Cases
 
